@@ -1,5 +1,9 @@
-target/
-target_rust_analyzer/
-
 # See https://adventofcode.com/2024/about
 data/
+
+# Valgrind analysis
+dhat.out.*
+
+# Build artifacts
+target/
+target_rust_analyzer/
